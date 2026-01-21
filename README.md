@@ -1,13 +1,15 @@
-AI Motivational Video Creator
+AI Motivational Video Scripts
 
-This project contains scripts and prompts to create:
+This project provides ready-to-use scripts for:
 - YouTube Shorts
 - Instagram Reels
-- Motivational videos
+- Facebook Videos
 
-Services I offer:
+Services I Offer:
 - Script writing
-- AI voice
-- Video automation
+- AI voice text
+- Short video ideas
 
-Contact: WhatsApp / Fiverr / Email
+Contact Me:
+WhatsApp: 7006986410
+Email: showkat2929@yahoomail.com
